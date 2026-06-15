@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hey there, I'm Sadia Ferdous
 
-<!--
-**Sadia-F/Sadia-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📖 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Computer Science student at NYIT with a concentration in Artificial Intelligence
+- Really curious about web development and how content reaches the right audience
+- Fast learner, currently teaching myself Python, JavaScript, and Git
+- Detail-oriented, organized, and not afraid to ask questions
+- Seeking SWE or AI internships for 2026
+
+---
+
+## 🎯 My Goal
+
+Build apps and websites that integrate AI (chatbots, agents) — while using data and business insights to make them smarter and more impactful.
+
+---
+
+## 🛠️ Tools & Tech
+
+**Languages:** Java, SQL, HTML, CSS  
+**Databases:** MySQL, JDBC  
+**Learning:** Python, JavaScript  
+**Other:** VS Code, Google Workspace
+
+---
+
+## ✨ Fun Facts
+
+- I love photography, capturing moments is my creative escape
+- I write for my college's student newspaper
+- Active in campus - I currently hold 5+ leadership positions on campus
+- Love organizing events and ideas
+- Born in Bangladesh, raised on Long Island
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadiaaferdous)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sadiaferdous003@gmail.com)
+
+---
+⭐ *Currently learning Python + AI to build AI-powered applications.*
