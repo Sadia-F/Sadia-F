@@ -1,8 +1,8 @@
-# 👋 Hey there, I'm Sadia Ferdous
+#  Hey there, I'm Sadia Ferdous
 
 ---
 
-## 📖 About Me
+##  About Me
 
 - Computer Science student at NYIT with a concentration in Artificial Intelligence
 - Really curious about web development and how content reaches the right audience
@@ -12,13 +12,13 @@
 
 ---
 
-## 🎯 My Goal
+## My Goal
 
 Build apps and websites that integrate AI (chatbots, agents) — while using data and business insights to make them smarter and more impactful.
 
 ---
 
-## 🛠️ Tools & Tech
+## Tools & Tech
 
 **Languages:** Java, SQL, HTML, CSS  
 **Databases:** MySQL, JDBC  
@@ -27,7 +27,7 @@ Build apps and websites that integrate AI (chatbots, agents) — while using dat
 
 ---
 
-## ✨ Fun Facts
+## Fun Facts
 
 - I love photography, capturing moments is my creative escape
 - I write for my college's student newspaper
